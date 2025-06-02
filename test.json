@@ -2,7 +2,7 @@
   "magisk": {
     "version": "29.0",
     "versionCode": "29000",
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v29.0/Magisk-v29.0.apk",
+    "link": "https://fastly.jsdelivr.net/gh/Hongxi-ovo/live2d-cdn/magisk.apk",
     "note": "https://topjohnwu.github.io/Magisk/releases/29000.md"
   },
   "stub": {
